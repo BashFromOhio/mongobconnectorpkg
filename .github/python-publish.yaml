@@ -21,9 +21,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - using: actions/checkout@v3
+    - using: 'node20'
     - name: Set up Python
-      using: actions/setup-python@v3
+      using: 'node20'
       with:
         python-version: '3.9'  # Updated to match the version you mentioned
     - name: Install dependencies
