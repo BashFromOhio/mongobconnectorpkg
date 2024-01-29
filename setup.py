@@ -41,7 +41,7 @@ setup(
 
 '''    
 setup(
-    name='DimondPricePrediction',
+    name='DimondPricPrediction',
     version='0.0.1',
     author='sunny savita',
     author_email='sunny.savita@ineuron.ai',
